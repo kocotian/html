@@ -1,0 +1,41 @@
+html, body {
+	background-color: black;
+	color: white;
+	font-family: Courier New, monospace, sans-serif, serif;
+}
+
+body {
+	max-width: 1000px;
+	margin: auto;
+	text-align: center;
+	padding: 0 12px;
+}
+
+img { width: 75%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	border: 9px red solid;
+	border-radius: 9px;
+	padding: 36px;
+	background-color: white;
+	color: green;
+	font-family: sans-serif;
+}
+
+#pierwszy {
+	color: gray;
+}
+
+hr {
+	margin: 24px 0;
+}
+
+a {
+	padding: 24px;
+	color: pink;
+}
+
+a:hover {
+	color: blue;
+}
